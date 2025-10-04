@@ -44,9 +44,7 @@ In Spring 2022 I received an M.Eng. degree from MIT, where I was lucky to work u
 
 **Non-Asymptotic t-wise Independence of Substitution-Permutation Networks** [\[pdf\]](files/MEng_Thesis.pdf)
 * MIT MEng Thesis
-* <details>
+<details>
   <summary>Erratum</summary>
   The main theorem of Section 4 (O(t)-round MiMC is t-wise independent) is not known to be true.
 </details>
-
-Erratum: The main theorem of Section 4 (O(t)-round MiMC is t-wise independent) is not known to be true.
