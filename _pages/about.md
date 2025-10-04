@@ -13,6 +13,8 @@ My research interests lie broadly in theoretical computer science. Recently, I h
 
 In Spring 2022 I received an M.Eng. degree from MIT, where I was lucky to work under the supervision of Prof. [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/). I graduated with a bachelors degree in Computer Science and Engineering and in Mathematics in Spring 2021 from the same institution. I am grateful for the mentorship of Prof. [Virginia Vassilevska Williams](https://people.csail.mit.edu/virgi) during my undergraduate studies.
 
+My email is apelecan at berkeley dot edu.
+
 ## Publications
 
 Beating full state tomography for unentangled spectrum estimation \[[pdf](https://arxiv.org/abs/2504.02785)\]
