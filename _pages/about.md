@@ -42,7 +42,7 @@ Classical vs Quantum Advice under Classically-Accessible Oracle
 :   15th Innovations in Theoretical Computer Science (ITCS 2024)
 :   \[[pdf](https://arxiv.org/abs/2303.04298)\]
 
-Layout Graphs, Random Walks, and the t-wise independence
+Layout Graphs, Random Walks, and the t-wise Independence of SPN Block Ciphers
 :   [Tianren Liu](https://liutianren.com/), Angelos Pelecanos, [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/), [Vinod Vaikuntanathan](http://people.csail.mit.edu/vinodv/)
 :   43rd International Cryptology Conference (CRYPTO 2023)
 :   \[[pdf](https://eprint.iacr.org/2024/083)\] \[[code](https://github.com/apelecan/t-wise-ind-SPN)\]
