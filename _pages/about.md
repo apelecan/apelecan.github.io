@@ -15,17 +15,27 @@ In Spring 2022 I received an M.Eng. degree from MIT, where I was lucky to work u
 
 ## Publications
 
-* Beating full state tomography for unentangled spectrum estimation
-  * Angelos Pelecanos, [Xinyu Tan](https://norahtan.github.io/), [Ewin Tang](https://ewintang.com/), [John Wright](https://people.eecs.berkeley.edu/~jswright/)
-  * 37th ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)
-  * [pdf](https://arxiv.org/abs/2504.02785)
+**Beating full state tomography for unentangled spectrum estimation**
+* Angelos Pelecanos, [Xinyu Tan](https://norahtan.github.io/), [Ewin Tang](https://ewintang.com/), [John Wright](https://people.eecs.berkeley.edu/~jswright/)
+* 37th ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)
+* [pdf](https://arxiv.org/abs/2504.02785)
 
-* How Fast Does the Inverse Walk Approximate a Random Permutation?
-  * [Vishesh Jain](https://jainvishesh.github.io/), [Tianren Liu](https://liutianren.com/), [Clayton Mizgerd](https://homepages.math.uic.edu/~cmizge2/), Angelos Pelecanos, [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/), [Vinod Vaikuntanathan](http://people.csail.mit.edu/vinodv/)
-  * Manuscript
-  * [pdf](https://eprint.iacr.org/2024/1795)
+**How Fast Does the Inverse Walk Approximate a Random Permutation?**
+* [Vishesh Jain](https://jainvishesh.github.io/), [Tianren Liu](https://liutianren.com/), [Clayton Mizgerd](https://homepages.math.uic.edu/~cmizge2/), Angelos Pelecanos, [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/), [Vinod Vaikuntanathan](http://people.csail.mit.edu/vinodv/)
+* Manuscript 2025
+* [pdf](https://eprint.iacr.org/2024/1795)
 
-* More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities
-  * Lucas Gretta, [William He](https://wrhe.github.io/), Angelos Pelecanos
-  * 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)
-  * [pdf](https://arxiv.org/abs/2406.08499)
+**More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities**
+* Lucas Gretta, [William He](https://wrhe.github.io/), Angelos Pelecanos
+* 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)
+* [pdf](https://arxiv.org/abs/2406.08499)
+
+**On the Computational Hardness of Quantum One-Wayness**
+* [Bruno Cavalar](https://brunopc.github.io/), [Eli Goldin](https://eligoldin.com/), [Matthew Gray](https://www.graytmatter.com/), [Peter Hall](https://simons.berkeley.edu/people/peter-hall), [Yanyi Liu](https://www.cs.cornell.edu/~yanyiliu//), Angelos Pelecanos
+* Quantum 9 (2025)
+* [pdf](https://arxiv.org/abs/2312.08363)
+
+**Classical vs Quantum Advice under Classically-Accessible Oracle**
+* Xingjian Li, [Qipeng Liu](https://sites.google.com/view/qipengliu/home), Angelos Pelecanos, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
+* 15th Innovations in Theoretical Computer Science (ITCS 2024)
+* [pdf](https://arxiv.org/abs/2303.04298)
