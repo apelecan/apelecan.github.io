@@ -51,6 +51,15 @@ Non-Asymptotic t-wise Independence of Substitution-Permutation Networks \[[pdf](
 
 ## Education
 
+Ph.D. in Computer Science, 2022 - Present
+:   University of California, Berkeley
+M.Eng. in Computer Science and Engineering, 2021 - 2022
+:   Massachusetts Institute of Technology
+B.Sc. in Computer Science and Engineering, 2017 - 2021
+:   Massachusetts Institute of Technology
+B.Sc. in Mathematics, 2017 - 2021
+:   Massachusetts Institute of Technology
+
 ## Talks
 
 More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities
@@ -70,4 +79,22 @@ Layout Graphs, Random Walks, and the t-wise independence of  SPN block ciphers
 
 ## Teaching
 
+Advanced Algorithms (MIT 6.854/18.415J)
+: Teaching Assistant, Fall 2021
+
+Design and Analysis of Algorithms (MIT 6.046/18.410J)
+: Teaching Assistant, Fall 2020, Spring 2021
+
 ## Professional Experience
+
+Hudson River Trading
+: Algorithm Developed Intern, Summer 2021
+
+Citadel
+: Software Engineering Intern, Summer 2019
+
+Tech Square Trading
+: Quantitative Trading Intern, Winter 2019
+
+QuantCo
+: Sofware Engineering Intern, Summer 2018
