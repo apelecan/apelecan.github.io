@@ -53,10 +53,13 @@ Non-Asymptotic t-wise Independence of Substitution-Permutation Networks \[[pdf](
 
 Ph.D. in Computer Science, 2022 - Present
 :   University of California, Berkeley
+
 M.Eng. in Computer Science and Engineering, 2021 - 2022
 :   Massachusetts Institute of Technology
+
 B.Sc. in Computer Science and Engineering, 2017 - 2021
 :   Massachusetts Institute of Technology
+
 B.Sc. in Mathematics, 2017 - 2021
 :   Massachusetts Institute of Technology
 
@@ -80,10 +83,10 @@ Layout Graphs, Random Walks, and the t-wise independence of  SPN block ciphers
 ## Teaching
 
 Advanced Algorithms (MIT 6.854/18.415J)
-: Teaching Assistant, Fall 2021
+: Teaching Assistant: Fall 2021
 
 Design and Analysis of Algorithms (MIT 6.046/18.410J)
-: Teaching Assistant, Fall 2020, Spring 2021
+: Teaching Assistant: Fall 2020, Spring 2021
 
 ## Professional Experience
 
