@@ -30,12 +30,23 @@ In Spring 2022 I received an M.Eng. degree from MIT, where I was lucky to work u
 * 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)
 * [pdf](https://arxiv.org/abs/2406.08499)
 
-**On the Computational Hardness of Quantum One-Wayness**
+**On the Computational Hardness of Quantum One-Wayness** [\[pdf\]](https://arxiv.org/abs/2312.08363)
 * [Bruno Cavalar](https://brunopc.github.io/), [Eli Goldin](https://eligoldin.com/), [Matthew Gray](https://www.graytmatter.com/), [Peter Hall](https://simons.berkeley.edu/people/peter-hall), [Yanyi Liu](https://www.cs.cornell.edu/~yanyiliu//), Angelos Pelecanos
 * Quantum 9 (2025)
-* [pdf](https://arxiv.org/abs/2312.08363)
 
-**Classical vs Quantum Advice under Classically-Accessible Oracle**
+**Classical vs Quantum Advice under Classically-Accessible Oracle** [\[pdf\]](https://arxiv.org/abs/2303.04298)
 * Xingjian Li, [Qipeng Liu](https://sites.google.com/view/qipengliu/home), Angelos Pelecanos, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
 * 15th Innovations in Theoretical Computer Science (ITCS 2024)
-* [pdf](https://arxiv.org/abs/2303.04298)
+
+**Layout Graphs, Random Walks, and the t-wise independence** [\[pdf\]](https://eprint.iacr.org/2024/083) [\[code\]](https://github.com/apelecan/t-wise-ind-SPN)
+* [Tianren Liu](https://liutianren.com/), Angelos Pelecanos, [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/), [Vinod Vaikuntanathan](http://people.csail.mit.edu/vinodv/)
+* 43rd International Cryptology Conference (CRYPTO 2023)
+
+**Non-Asymptotic t-wise Independence of Substitution-Permutation Networks** [\[pdf\]](files/MEng_Thesis.pdf)
+* MIT MEng Thesis
+* <details>
+  <summary>Erratum</summary>
+  The main theorem of Section 4 (O(t)-round MiMC is t-wise independent) is not known to be true.
+</details>
+
+Erratum: The main theorem of Section 4 (O(t)-round MiMC is t-wise independent) is not known to be true.
