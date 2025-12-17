@@ -23,7 +23,7 @@ Mixed state tomography reduces to pure state tomography
 :   \[[pdf](https://arxiv.org/abs/2511.15806)\]
 
 The debiased Keyl's algorithm: a new unbiased estimator for full state tomography
-:   Angelos Pelecanos, Jack Spilecki, , [John Wright](https://people.eecs.berkeley.edu/~jswright/)
+:   Angelos Pelecanos, Jack Spilecki, [John Wright](https://people.eecs.berkeley.edu/~jswright/)
 :   29th Annual Quantum Information Processing Conference (QIP 2026)
 :   \[[pdf](https://arxiv.org/abs/2510.07788)\]
 
