@@ -18,7 +18,6 @@ My email is apelecan at berkeley dot edu.
 ## Publications
 
 Mixed state tomography reduces to pure state tomography
-
 :   Angelos Pelecanos, Jack Spilecki, [Ewin Tang](https://ewintang.com/), [John Wright](https://people.eecs.berkeley.edu/~jswright/)
 :   Manuscript 2026
 :   \[[pdf](https://arxiv.org/abs/2511.15806)\]
