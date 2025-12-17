@@ -17,6 +17,17 @@ My email is apelecan at berkeley dot edu.
 
 ## Publications
 
+Mixed state tomography reduces to pure state tomography
+
+:   Angelos Pelecanos, Jack Spilecki, [Ewin Tang](https://ewintang.com/), [John Wright](https://people.eecs.berkeley.edu/~jswright/)
+:   Manuscript 2026
+:   \[[pdf](https://arxiv.org/abs/2511.15806)\]
+
+The debiased Keyl's algorithm: a new unbiased estimator for full state tomography
+:   Angelos Pelecanos, Jack Spilecki, , [John Wright](https://people.eecs.berkeley.edu/~jswright/)
+:   29th Annual Quantum Information Processing Conference (QIP 2026)
+:   \[[pdf](https://arxiv.org/abs/2510.07788)\]
+
 Beating full state tomography for unentangled spectrum estimation
 :   Angelos Pelecanos, [Xinyu Tan](https://norahtan.github.io/), [Ewin Tang](https://ewintang.com/), [John Wright](https://people.eecs.berkeley.edu/~jswright/)
 :   37th ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)
