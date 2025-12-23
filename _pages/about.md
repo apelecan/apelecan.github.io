@@ -69,9 +69,10 @@ Non-Asymptotic t-wise Independence of Substitution-Permutation Networks
 
 ## Activities
 
-* Reviewer for STOC 2024, FOCS 2024, SODA 2025, CRYPTO 2023, ITCS 2023, 2024, QIP 2023, 2024, 2025, TQC 2024, ICALP 2024.
+* Attended the [1st AIMS Workshop and School on The Theory of Quantum Learning Algorithms](https://aims-quantum-learning-and-testing.github.io/) at the [African Institute for Mathematical Sciences](https://aims.ac.za/), October 2025.
 * Graduate student mentor at the Berkeley Mathematics [Directed Reading Program](https://wp.math.berkeley.edu/drp/), Fall 2024.
 * Teaching Assistant for [Quantum Query Complexity](https://yassine-hamoudi.github.io/pcmi2023/) at IAS [PCMI Graduate Summer School](https://www.ias.edu/pcmi/pcmi-2023-graduate-summer-school), July 2023.
+* Reviewer for STOC, FOCS, SODA, CRYPTO, ITCS, QIP, TQC, ICALP.
 
 ## Education
 
