@@ -17,9 +17,14 @@ My email is apelecan at berkeley dot edu.
 
 ## Publications
 
+When Simple Permutations Mix Poorly: Limited Independence Does Not Imply Pseudorandomness
+:   [Jesko Dujmovic](https://derjesko.github.io/), Angelos Pelecanos, [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/)
+:   Manuscript 2025
+:   \[[pdf](https://eprint.iacr.org/2025/2282)\]
+
 Mixed state tomography reduces to pure state tomography
 :   Angelos Pelecanos, Jack Spilecki, [Ewin Tang](https://ewintang.com/), [John Wright](https://people.eecs.berkeley.edu/~jswright/)
-:   Manuscript 2026
+:   Manuscript 2025
 :   \[[pdf](https://arxiv.org/abs/2511.15806)\]
 
 The debiased Keyl's algorithm: a new unbiased estimator for full state tomography
