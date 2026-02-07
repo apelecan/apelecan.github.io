@@ -92,8 +92,11 @@ B.Sc. in Mathematics, 2017 - 2021
 ## Talks
 
 Mixed state tomography reduces to pure state tomography
-:   University of Waterloo [IQC Math and CS seminar](https://uwaterloo.ca/institute-for-quantum-computing/events/iqc-math-and-cs-seminar-featuring-angelos-pelecanos), Spring 2026.
-:   [ Scuola Normale Superiore of Pisa](https://www.sns.it/en), Spring 2026.
+:   [University of Waterloo IQC Math and CS seminar](https://uwaterloo.ca/institute-for-quantum-computing/events/iqc-math-and-cs-seminar-featuring-angelos-pelecanos), Spring 2026.
+:   Scuola Normale Superiore of Pisa, Spring 2026.
+
+Beating full state tomography for unentangled spectrum estimation
+:   SODA 2026, Vancouver, Spring 2026.
 
 More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities
 :   [MIT CIS Seminar](https://toc.csail.mit.edu/node/1665), Cambridge, Fall 2024.
