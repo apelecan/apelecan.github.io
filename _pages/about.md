@@ -19,7 +19,7 @@ My email is apelecan at berkeley dot edu.
 
 When Simple Permutations Mix Poorly: Limited Independence Does Not Imply Pseudorandomness
 :   [Jesko Dujmovic](https://derjesko.github.io/), Angelos Pelecanos, [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/)
-:   Manuscript 2025
+:   45th Annual International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt 2026)
 :   \[[pdf](https://eprint.iacr.org/2025/2282)\]
 
 Mixed state tomography reduces to pure state tomography
@@ -29,6 +29,7 @@ Mixed state tomography reduces to pure state tomography
 
 The debiased Keyl's algorithm: a new unbiased estimator for full state tomography
 :   Angelos Pelecanos, Jack Spilecki, [John Wright](https://people.eecs.berkeley.edu/~jswright/)
+:   58th ACM Symposium on Theory of Computing (STOC 2026)
 :   29th Annual Quantum Information Processing Conference (QIP 2026)
 :   \[[pdf](https://arxiv.org/abs/2510.07788)\]
 
@@ -89,6 +90,10 @@ B.Sc. in Mathematics, 2017 - 2021
 :   Massachusetts Institute of Technology
 
 ## Talks
+
+Mixed state tomography reduces to pure state tomography
+:   University of Waterloo [IQC Math and CS seminar](https://uwaterloo.ca/institute-for-quantum-computing/events/iqc-math-and-cs-seminar-featuring-angelos-pelecanos), Spring 2026.
+:   [ Scuola Normale Superiore of Pisa](https://www.sns.it/en), Spring 2026.
 
 More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities
 :   [MIT CIS Seminar](https://toc.csail.mit.edu/node/1665), Cambridge, Fall 2024.
